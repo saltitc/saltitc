@@ -7,7 +7,7 @@
 </p>
 
 
-- :department_store: В настоящее время работаю над проектом [store2](https://github.com/saltitc/store2)  
+- :department_store: В настоящее время работаю над проектом [store2](https://github.com/saltitc/store2), который доступен по [ссылке](https://saltitc.ru)
 - :whale: После завершения проекта планирую изучить Docker
 - :mailbox: Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-saltitc-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/saltitc) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:saltinthecut@gmail.com)
 
@@ -28,8 +28,8 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>
-<a href="https://ru.wikipedia.org/wiki/AJAX" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/ajax2010.jpg" alt="Git" height="50" /></a>  
-
+<a href="https://ru.wikipedia.org/wiki/AJAX" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/ajax2010.jpg" alt="AJAX" height="50" /></a>  
+<a href="https://www.markdownguide.org" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="25%">
@@ -45,14 +45,14 @@
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/></a>  
-<a href="https://fastapi.tiangolo.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="Git" height="50" /></a>  
-<a href="https://www.selenium.dev" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Git" height="50" /></a>  
-<a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="Git" height="50" /></a>  
-
-
-
+<a href="https://fastapi.tiangolo.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" /></a>  
+<a href="https://www.selenium.dev" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" height="50" /></a>  
+<a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="50" /></a>  
+<a href="https://nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://gunicorn.org" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="Gunicorn" height="50" /></a>  
+<a href="https://docs.celeryq.dev/en/stable/index.html" target="_blank"><img style="margin: 10px" src="https://www.fullstackpython.com/img/logos/celery.png" alt="Celery" width="70" height="20" /></a>  
+<a href="[https://gunicorn.org](https://ru.wikipedia.org/wiki/JSON)" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="JSON" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="25%">
 
 
@@ -61,8 +61,8 @@
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="Linux" height="50" /></a>  
-
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="UNIX" height="50" /></a> 
+<a href="https://ubuntu.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" height="50" /></a> 
 </div>
 
 <td valign="top" width="25%">
@@ -71,12 +71,12 @@
 
 ### Tools  
 <div align="center"> 
-<a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://filezilla.ru" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" alt="Linux" height="50" /></a> 
-<a href="https://github.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Linux" height="50" /></a> 
-<a href="https://www.jetbrains.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="Linux" height="50" /></a> 
-<a href="https://www.jetbrains.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Linux" height="50" /></a> 
-<a href="https://www.jetbrains.com" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Linux" height="50" /></a> 
+<a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="50" /></a>  
+<a href="https://filezilla.ru" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" alt="Filezilla" height="50" /></a> 
+<a href="https://github.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="50" /></a> 
+<a href="https://www.jetbrains.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" height="50" /></a> 
+<a href="https://www.jetbrains.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" height="50" /></a> 
+<a href="https://www.postman.com" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" height="50" /></a> 
 
 </div>
 
