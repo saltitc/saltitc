@@ -1,14 +1,13 @@
 ## :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 9 классе с изучения C++ с целью сделать чит для игры Grand Theft Auto V. После C++, сделал выбор в пользу бэкенд разработки, в которой развиваюсь по сей день.
+Я начинающий бэкенд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 9 классе с изучения C++ с целью сделать мод для игры Grand Theft Auto V. После C++ сделал выбор в пользу бэкенд разработки, в которой развиваюсь по сей день.
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 
-- :department_store: В настоящее время работаю над проектом [store2](https://github.com/saltitc/store2), который доступен по [ссылке](https://saltitc.ru)
-- :whale: После завершения проекта планирую изучить Docker
+- :department_store: В настоящее время работаю над проектом [hotels](https://github.com/saltitc/hotels). Стек: FastAPI/Postgres/Redis/Celery/Grafana
 - :mailbox: Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-saltitc-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/saltitc) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:saltinthecut@gmail.com)
 
      
@@ -38,7 +37,8 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://docs.pytest.org/en/7.4.x/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="PyTest" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -46,12 +46,16 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/></a>  
 <a href="https://fastapi.tiangolo.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" /></a>  
+<a href="https://www.sqlalchemy.org" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="FastAPI" height="50" /></a>  
 <a href="https://www.selenium.dev" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" height="50" /></a>  
 <a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="50" /></a>  
 <a href="https://nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://gunicorn.org" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="Gunicorn" height="50" /></a>  
+<a href="https://gunicorn.org" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="Gunicorn" height="50" /></a>
+<a href="https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/uwsgi/uwsgi-plain.svg" alt="uWSGI" height="50" /></a>
 <a href="https://docs.celeryq.dev/en/stable/index.html" target="_blank"><img style="margin: 10px" src="https://www.fullstackpython.com/img/logos/celery.png" alt="Celery" width="70" height="20" /></a>  
-<a href="[https://gunicorn.org](https://ru.wikipedia.org/wiki/JSON)" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="JSON" height="50" /></a>  
+<a href="https://ru.wikipedia.org/wiki/JSON" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="JSON" height="50" /></a>  
+<a href="https://grafana.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" height="50" /></a>  
+
 </div>
 </td><td valign="top" width="25%">
 
@@ -63,7 +67,9 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" alt="UNIX" height="50" /></a> 
 <a href="https://ubuntu.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" height="50" /></a> 
+<a href="https://www.docker.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 </div>
+
 
 <td valign="top" width="25%">
 
