@@ -2,21 +2,17 @@
 
 Python разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 + Началось все в 14 лет с C++. Со временем пришел к выводу что хочу профильно развиваться именно в бэкенд разработке.
-+ Помимо Python, в долгосрочных целях, перейти на Go.
++ В долгосрочных целях, перейти на Go.
 + Считаю что важнее сам процесс развития, а не результат.
-+ Студент РАНХиГС.
-+ На протяжении четырех лет стабильно занимаюсь спортом и считаю что он является неотъемлемой частью и фундаментом жизни человека, при условии отсутствия фанатизма...
-+ Вредных привычек не имею.
-+ Согласен с высказыванием "Мы есть то, что мы едим".
-+ Считаю что изучение "базы" информационных технологий важно вне зависимости от сферы разработки.
++ На протяжении четырех лет стабильно занимаюсь спортом и считаю что он является неотъемлемой частью жизни человека
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 
-- :department_store: В настоящее время работаю над проектом [hotels](https://github.com/saltitc/hotels). Стек: FastAPI/Postgres/Redis/Celery/Grafana
-- :mailbox: Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-saltitc-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/saltitc) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:saltinthecut@gmail.com)
+- В настоящее время работаю над проектом [hotels](https://github.com/saltitc/hotels). Стек: FastAPI/Postgres/Redis/Celery/Grafana
+- Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-saltitc-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/saltitc) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:saltinthecut@gmail.com)
 
      
 
