@@ -41,25 +41,22 @@ Python разработчик<img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### Backend  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://docs.pytest.org/en/7.4.x/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="PyTest" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/></a>  
-<a href="https://fastapi.tiangolo.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" /></a>  
-<a href="https://www.sqlalchemy.org" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="FastAPI" height="50" /></a>  
+<a href="https://www.fastapi.tiangolo.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" height="50" /></a>  
+<a href="https://docs.pytest.org/en/7.4.x/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="PyTest" height="50" /></a>  
+<a href="https://www.sqlalchemy.org" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" height="50" /></a>  
 <a href="https://www.selenium.dev" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" height="50" /></a>  
-<a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="50" /></a>  
-<a href="https://nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://gunicorn.org" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="Gunicorn" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/></a>  
+<a href="https://www.openapis.org" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg" alt="OpenAPI" height="50" /></a>  
+<a href="https://www.nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://gunicorn.org" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" alt="Gunicorn" height="50" /></a>  
 <a href="https://uwsgi-docs.readthedocs.io/en/latest/WSGIquickstart.html" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/uwsgi/uwsgi-plain.svg" alt="uWSGI" height="50" /></a>
 <a href="https://docs.celeryq.dev/en/stable/index.html" target="_blank"><img style="margin: 10px" src="https://www.fullstackpython.com/img/logos/celery.png" alt="Celery" width="70" height="20" /></a>  
-<a href="https://ru.wikipedia.org/wiki/JSON" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="JSON" height="50" /></a>  
-<a href="https://grafana.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" height="50" /></a>  
-
+<a href="https://www.grafana.com" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" height="50" /></a>  
+<a href="https://www.json.org/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="JSON" height="50" /></a>  
 </div>
 </td><td valign="top" width="25%">
 
