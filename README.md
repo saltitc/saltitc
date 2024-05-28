@@ -1,10 +1,9 @@
 
-## Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-saltitc-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/saltitc) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:saltinthecut@gmail.com)
+## [![Telegram Badge](https://img.shields.io/badge/-saltitc-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/saltitc) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:saltinthecut@gmail.com)
 
      
 
 
-## Навыки  
 <table><tr><td valign="top" width="25%">
 
 
@@ -88,7 +87,6 @@
 ---
 
 
-### ⚙️ GitHub статистика:
 
 <table>
   <tr>
